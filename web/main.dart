@@ -24,3 +24,6 @@ void registerWebApp() async {
   }
 }
 
+void main() {
+  registerWebApp();
+}
